@@ -4,6 +4,7 @@
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
+[![Build Status](https://github.com/BKreisel/aoc2022/actions/workflows/ci.yml/badge.svg)](https://github.com/BKreisel/aoc2022/actions/workflows/ci.yml)
 <!--- advent_readme_stars table --->
 ## 2022 Results
 
