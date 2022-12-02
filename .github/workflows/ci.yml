@@ -20,7 +20,7 @@ jobs:
             - uses: actions/checkout@v2
             - name: cargo test
               run: cargo test
-     clippy:
+    clippy:
         runs-on: ubuntu-latest
         name: Lint (clippy)
         steps:
